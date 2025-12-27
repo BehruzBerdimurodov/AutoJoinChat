@@ -1,5 +1,5 @@
 pyrogram==2.0.106
-tgcrypto>=1.2,<1.3
-PyTgCalls==0.5.0
+tgcrypto==1.2.5
+PyTgCalls==0.4.2
 python-dotenv==1.0.1
 loguru==0.7.0
